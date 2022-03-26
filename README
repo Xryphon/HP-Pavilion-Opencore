@@ -1,3 +1,14 @@
 These are the files that allows for one to install macOS Monterey using the installer than can be downloaded on the Dortania guide using a command. 
 
 Keep in mind that EFIs should be created per system, not downloaded and used from various sources as issues may occur that one may not know how to diagnose - it is simply easier to know what you are doing and fix it rather than have to go through many files and the config.plist in order to find what you are looking for.
+
+This is for the HP Pavilion Laptop 15-cs0xxx; my configuration did not come with a GPU but came with an Intel Wireless Card.
+  
+  Specifications:
+  
+  CPU: Intel i7 - 8550U (Kaby Lake Refresh)
+  GPU: Intel UHD 620
+  Memory: 12 Gigabytes
+  Wireless Card: Intel Wireless 7265
+  Audio Codec Used: 71
+  
